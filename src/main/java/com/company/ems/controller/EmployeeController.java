@@ -54,14 +54,7 @@ public class EmployeeController {
 		return "Employee Deleted Successfully";
 	}
 	
-	@RestController
-	public class HealthController {
-
-	    @GetMapping("/")
-	    public String health() {
-	        return "Application is live";
-	    }
-	}
+	
 
 	
 }

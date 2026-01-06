@@ -1,11 +1,16 @@
 # Maven
 target/
 
+# Eclipse
+bin/
+.classpath
+.project
+.settings/
+
 # IDE
 .idea/
 .vscode/
 *.iml
-.settings/
 
 # OS
 .DS_Store
