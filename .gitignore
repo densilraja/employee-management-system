@@ -1,17 +1,7 @@
-# Maven
-target/
-
-# Eclipse
-bin/
+/target/
 .classpath
 .project
 .settings/
-
-# IDE
 .idea/
-.vscode/
-*.iml
-
-# OS
-.DS_Store
-Thumbs.db
+*.log
+.env
